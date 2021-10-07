@@ -16,8 +16,10 @@
 
 ![](https://komarev.com/ghpvc/?username=hamzaijaz-dev)
 
-<img src="https://github-readme-stats.vercel.app/api?hamzaijaz-dev&show_icons=true&hide_border=true" alt="Saad's GitHub Stats">
-
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaijaz-dev&show_icons=true&hide_border=true)
+<a href="https://linkedin.com/in/chhamzaijaz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saad-aslam-a83889152" height="20" width="20" /></a>
+<a href="https://fb.com/chhamzaijaz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saad.aslam.7355" height="20" width="20" /></a>
+<a href="https://instagram.com/chhamzaijaz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saad.aslam43" height="20" width="20" /></a>
 
 <!---
 hamzaijaz-dev/hamzaijaz-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
