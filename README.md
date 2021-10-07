@@ -31,7 +31,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/wordpress.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/linux.svg"></code>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaijaz-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hamza's github stats" /></a> | <a href="https://github.com/hamzaijaz-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaijaz-dev&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaijaz-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hamza's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaijaz-dev&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 <a href="https://linkedin.com/in/chhamzaijaz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chhamzaijaz7" height="25" width="25" /></a>
