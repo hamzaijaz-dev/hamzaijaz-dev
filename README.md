@@ -5,9 +5,9 @@
 
 - 🏫 Bachelor’s degree in Computer Sciences 
 - 💼 Sr. Software Engineer at [Arbisoft](https://arbisoft.com/)
-  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="GIF" align="right">
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" height=200 alt="GIF" align="right">
 - ⚡️ A Web Developer with a good grip on:
-  - Front-end development stack includes ReactJS, VueJS, HTML, CSS and Bootstrap
+  - Front-end development stack includes ReactJS, VueJS, HTML, CSS, Tailwind and Bootstrap
   - Programming Languages Python(Django/Flask), PHP(Laravel/CodeIgnitor), MySQL and Postgres
 - 🚀 Data Science Enthusiast
 - ❤️ I love writing Scripts, and building fun experiments on different domains
@@ -18,14 +18,21 @@
 
 **Languages and Tools:**  
 
-[comment]: <> (![Alt Apache]&#40;assets/apache.png =250x250&#41;)
-
-<code><img height="20" src="./assets/apache.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/python.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/django.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/php.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/laravel.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/npm.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/javascript.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/react.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/vuejs.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/typescript.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/jquery.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/postgresql.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/apache.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/wordpress.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/linux.svg"></code>
+<code><img height="30" src="https://github.com/hamzaijaz-dev/hamzaijaz-dev/blob/master/assets/redis.svg"></code>
 
 | <a href="https://github.com/hamzaijaz-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaijaz-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hamza's github stats" /></a> | <a href="https://github.com/hamzaijaz-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaijaz-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
