@@ -12,7 +12,7 @@
 - 🚀 Data Science Enthusiast
 - ❤️ Love to write Scripts and build fun experiments
 - 📺 Fun fact watch Movies, Seasons and TV Shows
-- 💬 How to reach me **chhamzaijaz@gmail.com**
+<!-- - 💬 How to reach me **chhamzaijaz@gmail.com** -->
 
 ![](https://komarev.com/ghpvc/?username=hamzaijaz-dev&color=brightgreen)
 
