@@ -5,7 +5,7 @@
 
 - 🏫 Bachelor’s degree in Computer Science 
 - 💼 Sr. Software Engineer at [Arbisoft](https://arbisoft.com/)
-  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" height=200 alt="GIF" align="right">
+<!--   <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" height=200 alt="GIF" align="right"> -->
 - ⚡️ A Web Developer with a good grip on:
   - ReactJS, VueJS, HTML, CSS, Tailwind & Bootstrap
   - Python(Django/Flask), PHP(Laravel/CodeIgnitor), MySQL and Postgres
