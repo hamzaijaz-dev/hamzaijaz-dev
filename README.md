@@ -8,10 +8,10 @@
 <!--   <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" height=200 alt="GIF" align="right"> -->
 - ⚡️ A Web Developer with a good grip on:
   - ReactJS, VueJS, HTML, CSS, Tailwind & Bootstrap
-  - Python(Django/Flask), PHP(Laravel/CodeIgnitor), MySQL and Postgres
+  - Python(Django/Flask/FastAPI), PHP(Laravel), MySQL and Postgres
 - 🚀 Data Science Enthusiast
 - ❤️ Love to write Scripts and build fun experiments
-- 📺 Fun fact watch Movies, Seasons and TV Shows
+<!-- - 📺 Fun fact watch Movies, Seasons and TV Shows -->
 <!-- - 💬 How to reach me **chhamzaijaz@gmail.com** -->
 
 ![](https://komarev.com/ghpvc/?username=hamzaijaz-dev&color=brightgreen)
