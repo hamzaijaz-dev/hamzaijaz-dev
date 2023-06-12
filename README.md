@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Ijaz</h1>
-<h3 align="center">Adaptive Soft-Tech Analyst, Tech Hobbyist, Geek, Techie: Love to program.</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 #### 🤔 Who Am I?
 
