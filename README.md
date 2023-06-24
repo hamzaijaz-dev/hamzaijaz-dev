@@ -5,13 +5,11 @@
 
 - 🏫 Bachelor’s degree in Computer Science 
 - 💼 Sr. Software Engineer at [Arbisoft](https://arbisoft.com/)
-<!--   <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" height=200 alt="GIF" align="right"> -->
 - ⚡️ A Web Developer with a good grip on:
+  - Python(Django/Django Rest Framework/FastAPI), PHP(Laravel), MySQL/Postgres, AWS & DigitalOcean.
   - ReactJS, VueJS, HTML, CSS, Tailwind & Bootstrap
-  - Python(Django/Flask/FastAPI), PHP(Laravel), MySQL/Postgres, AWS & DigitalOcean.
 - 🚀 Data Science Enthusiast
 - ❤️ Love to write Scripts and build fun experiments
-<!-- - 📺 Fun fact watch Movies, Seasons and TV Shows -->
 <!-- - 💬 How to reach me **chhamzaijaz@gmail.com** -->
 
 ![](https://komarev.com/ghpvc/?username=hamzaijaz-dev&color=brightgreen)
