@@ -1,41 +1,41 @@
-<h1 align="center">Hi 👋, I'm Hamza Ijaz</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h1 align="center">Hi there! 👋 I'm Hamza Ijaz</h1>
+<h3 align="center">Senior Software Engineer | Web Development Enthusiast</h3>
 
-#### 🤔 Who Am I?
+#### 🚀 Who Am I?
 
-- 🏫 Bachelor’s degree in Computer Science 
-- ⚡️ A Web Developer with a good grip on:
-  - Python(Django/Django Rest Framework/FastAPI), PHP(Laravel), NodeJS/Express, MySQL/Postgres, Docker, AWS & DigitalOcean.
-  - ReactJS, VueJS, HTML, CSS, Tailwind & Bootstrap
-- 🚀 Web Engineer Enthusiast
-- ❤️ Love to write Scripts and build fun experiments
-<!-- - 💬 How to reach me **chhamzaijaz@gmail.com** -->
+- ⚡️ A skilled Web Developer with expertise in:
+  - Python: Django, Django Rest Framework, FastAPI
+  - JavaScript: ReactJS, NextJS, VueJS, NodeJS, Express, GraphQL
+  - PHP: Laravel
+  - Databases: MySQL, Postgres, MongoDB
+  - Tools: Docker, AWS, DigitalOcean
+- 🔧 Proficient in building microservices architectures and containerization with Docker
+- 💡 Experienced in database schema design, Linux server administration, and object-oriented software design
+- 🌟 Passionate about writing efficient code and exploring new technologies
+- ❤️ Enjoys experimenting with scripts and building creative projects
 
-![](https://komarev.com/ghpvc/?username=hamzaijaz-dev&color=brightgreen)
+#### 🛠️ Tech Stack
 
-**Languages and Tools:**  
+- **Programming Languages:** Python, JavaScript, PHP
+- **Frameworks:** Django, Django Rest Framework, FastAPI, Laravel, ReactJS, VueJS, NextJS, NodeJS, Express
+- **Databases:** Postgres, MySQL, MongoDB
+- **Cloud Services:** AWS, DigitalOcean
+- **Containerization:** Docker
+- **Tools:** Nginx, RabbitMQ, GitHub Actions, CircleCI
+- **Project Management:** Jira, Azure DevOps, Trello
 
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/python.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/django.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/fastapi.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/php.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/laravel.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/javascript.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/typescript.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/vuejs.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/react.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/postgresql.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/apache.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/wordpress.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hamzaijaz-dev/hamzaijaz-dev/master/assets/linux.svg"></code>
+#### 📚 Education & Certifications
 
-<!---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaijaz-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hamza's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaijaz-dev&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
---->
-<a href="https://linkedin.com/in/chhamzaijaz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chhamzaijaz7" height="25" width="25" /></a>
+- **BS Computer Science:** University Of Sargodha (2014 - 2018)
+- **Certified Web Application Engineer:** EVS E-Commerce Application Development (2016)
 
-<!---
-hamzaijaz-dev/hamzaijaz-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🌐 Connect with Me
+
+- 📧 **Email:** chhamzaijaz@gmail.com
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hamzaijaz-dev/)
+
+#### 🚀 Featured Projects
+
+- **Microbrewery - Microservices Based Architecture:** Developed using Django microservices, Docker, RabbitMQ for seamless communication. [Check it out](https://github.com/hamzaijaz-dev/microbrewery)
+- **E-Commerce Admin Dashboard - FastAPI:** Utilized Alembic, SQLAlchemy, Docker, and PostgreSQL for efficient web development. [Explore project](https://github.com/hamzaijaz-dev/FastAPI-SQLAlchemy-Docker)
+
