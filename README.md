@@ -4,11 +4,10 @@
 #### 🤔 Who Am I?
 
 - 🏫 Bachelor’s degree in Computer Science 
-- 💼 Senior Software Engineer at [Arbisoft](https://arbisoft.com/)
 - ⚡️ A Web Developer with a good grip on:
-  - Python(Django/Django Rest Framework/FastAPI), PHP(Laravel), MySQL/Postgres, AWS & DigitalOcean.
+  - Python(Django/Django Rest Framework/FastAPI), PHP(Laravel), NodeJS/Express, MySQL/Postgres, Docker, AWS & DigitalOcean.
   - ReactJS, VueJS, HTML, CSS, Tailwind & Bootstrap
-- 🚀 Data Science Enthusiast
+- 🚀 Web Engineer Enthusiast
 - ❤️ Love to write Scripts and build fun experiments
 <!-- - 💬 How to reach me **chhamzaijaz@gmail.com** -->
 
@@ -35,8 +34,6 @@
 | ------------- | ------------- |
 --->
 <a href="https://linkedin.com/in/chhamzaijaz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chhamzaijaz7" height="25" width="25" /></a>
-<a href="https://fb.com/chhamzaijaz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chhamzaijaz7" height="25" width="25" /></a>
-<a href="https://instagram.com/chhamzaijaz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chhamzaijaz7" height="25" width="25" /></a>
 
 <!---
 hamzaijaz-dev/hamzaijaz-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
