@@ -1,14 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm Hamza Ijaz</h1>
-<h3 align="center">Senior Software Engineer | Web Development Enthusiast</h3>
+<h3 align="center">Principal Software Engineer | Web Development Enthusiast</h3>
 
 #### 🚀 Who Am I?
 
-- ⚡️ A skilled Web Developer with expertise in:
+- ⚡️ A Skilled Web Engineer with expertise in:
   - Python: Django, Django Rest Framework, FastAPI, Serverless with Python
-  - JavaScript: ReactJS, NextJS, VueJS, NodeJS, Express, GraphQL
   - PHP: Laravel
+  - JavaScript: ReactJS, NextJS, VueJS, NodeJS, Express, GraphQL
   - Databases: MySQL, Postgres, MongoDB
-  - Tools: Docker, AWS, DigitalOcean
+  - Tools: Docker, DigitalOcean, AWS, EC2, SES, S3, Lambda, CloudWatch
 - 🔧 Proficient in building microservices architectures and containerization with Docker
 - 💡 Experienced in database schema design, Linux server administration, and object-oriented software design
 - 🌟 Passionate about writing efficient code and exploring new technologies
@@ -17,7 +17,7 @@
 #### 🛠️ Tech Stack
 
 - **Programming Languages:** Python, JavaScript, PHP
-- **Frameworks:** Django, Django Rest Framework, FastAPI, Laravel, ReactJS, VueJS, NextJS, NodeJS, Express
+- **Frameworks:** Django, Django Rest Framework, FastAPI, Serverless, Laravel, ReactJS, VueJS, NextJS, NodeJS, Express
 - **Databases:** Postgres, MySQL, MongoDB
 - **Cloud Services:** AWS, DigitalOcean
 - **Containerization:** Docker
