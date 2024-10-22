@@ -4,7 +4,7 @@
 #### 🚀 Who Am I?
 
 - ⚡️ A skilled Web Developer with expertise in:
-  - Python: Django, Django Rest Framework, FastAPI
+  - Python: Django, Django Rest Framework, FastAPI, Serverless with Python
   - JavaScript: ReactJS, NextJS, VueJS, NodeJS, Express, GraphQL
   - PHP: Laravel
   - Databases: MySQL, Postgres, MongoDB
@@ -32,7 +32,6 @@
 #### 🌐 Connect with Me
 
 - 📧 **Email:** chhamzaijaz@gmail.com
-- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hamzaijaz-dev/)
 
 #### 🚀 Featured Projects
 
