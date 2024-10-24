@@ -6,7 +6,6 @@
 - ⚡️ A Skilled Web Engineer with expertise in:
   - Python: Django, Django Rest Framework, FastAPI, Serverless with Python
   - PHP: Laravel
-  - JavaScript: ReactJS, NextJS, VueJS, NodeJS, Express, GraphQL
   - Databases: MySQL, Postgres, MongoDB
   - Tools: Docker, DigitalOcean, AWS, EC2, SES, S3, Lambda, CloudWatch
 - 🔧 Proficient in building microservices architectures and containerization with Docker
