@@ -6,8 +6,9 @@
 - ⚡️ A Skilled Web Engineer with expertise in:
   - Python: Django, Django Rest Framework, FastAPI, Serverless with Python
   - PHP: Laravel
-  - Databases: MySQL, Postgres, MongoDB
-  - Tools: Docker, DigitalOcean, AWS, EC2, SES, S3, Lambda, CloudWatch
+  - Javascript: ReactJS, NodeJS, Express
+  - Databases: MySQL, PostgreSQL, MongoDB
+  - Tools: AWS, EC2, SES, S3, Lambda, CloudWatch, Docker & DigitalOcean
 - 🔧 Proficient in building microservices architectures and containerization with Docker
 - 💡 Experienced in database schema design, Linux server administration, and object-oriented software design
 - 🌟 Passionate about writing efficient code and exploring new technologies
